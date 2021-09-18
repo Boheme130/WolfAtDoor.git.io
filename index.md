@@ -1,37 +1,80 @@
-## Welcome to GitHub Pages
+## Thw Wolf at the Door
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
 
-You can use the [editor on GitHub](https://github.com/Boheme130/WolfAtDoor.git.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![avatar](https://images.fineartamerica.com/images-medium-large-5/5th-avenue-naples-florida-christine-hopkins.jpg)
+<br>
+<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 系列1 The Wolf at the Door
 
-### Markdown
+库博是FBI探员，在一次执行任务的过程中被对手开膛破肚，昏迷后被迫切除部分肠子。在恢复后，他被告知嫌疑人是狼人，同时，为了保守秘密，他被调遣到BSI，一个专门负责狼人案件的FBI机构。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+BSI突然安插给了库博一个狼人搭档Oliver Park，派两人去一个佛罗里达小镇调查一起失踪命案。出于对狼人的阴影，库珀并不信任Oliver，但两人在相处的过程中逐渐相信对方。平静的小镇中，不断有人失踪并死去，有的是人类，有的是狼人，他们之间找不到任何联系，除了他们都是体强力壮的男子。怀疑的凶手一个接一个死去或消失，而库珀不知道的是，这一切似乎都是上司的安排，然而真实情况却远超上司预判，库博和Oliver被卷入了一场无人预料到的危险。与此同时，库珀从一开始对Oliver的敌意，对他渐生情愫，到愿意为救他冒生命危险。正当所有人都把嫌疑人锁定到狼人身上时，或许最病态的恐怖来自人类机构内部。、
 
-```markdown
-Syntax highlighted code block
+这个系列对人物心理变化的描写细致入微。Cooper从一开始对狼人搭档Park的不信任和敌对，到慢慢放下戒心，发现狼人一直在配合保护自己，再到遇到危险被凶手暗杀困在洞穴时第一时间想到的是让Park来救自己，没有丝毫怀疑Park就是暗杀自己的凶手，但因为自己之前的行为惹恼了Park不知道他的名，Cooper不知道怎么喊Park的名字而感到无比懊悔。Park救起自己后，Cooper浑身虚弱躺在地上，抓起Park的手亲了一下，这一段的描写虽然没有sex但比sex更加激烈。当Cooper因为后面某场事件感到很对不起Park时，他到他房间后准备的所有道歉的话都突然说不出来，他表达歉意和自己对Park的绝对信任的方式，就是把头低下来，在狼人Park面前暴露自己脆弱的脖子。
 
-# Header 1
-## Header 2
-### Header 3
+由于作者的细节描写和人物变化非常到位，两人之间每一步进展都需要一定的笔墨和铺垫，这种写法导致这本书的感情线比较慢热，但走上正轨后两人之间的张力在作者的文字里简直呼之欲出。第一本书主要讲的还是两人相识的过程，到结尾两人还没有确定关系，两人正式确定情侣关系要到第二部结尾，但这中间两人为对方做的很多细节都甚至比很多其他书的情侣更像情侣。Cooper和Park两人之间都有自己不善表达的情感，他们更愿意用行动而不是语言上的承诺来表示对对方的爱和重视。
 
-- Bulleted
-- List
+这本书是单视角写法，我们只能从Cooper的视角看待其他人物。Park作为狼人，他和Cooper相比知识是不对等的，Cooper许多不知道的事情Park其实都知道，但Park又不能直接告诉或问Cooper。Cooper之前被狼人开膛破肚后留下了伤疤，Park第一次和他上床就注意到了这是狼人留下的，他亲吻Cooper时舌头避开了伤痕，但没有直说。从Cooper的视角看来，Park是一个神秘的人，他知道很多事情，但他又把很多东西藏在背后，不希望Cooper被卷入更多的伤害。他对Cooper的保护欲产生的神秘感将延续好几部书，但Cooper最终慢慢走进了Park的内心，看到了Park不想给其他人看到的一面。这期间两人都在不断成长，除了两人感情的成长，Cooper的世界观也在不断改变。
 
-1. Numbered
-2. List
+如果说Cooper和Park的感情线是整个系列的主线，Cooper对狼人和人类的世界观就是一条没有断过的暗线。Cooper虽然很多时候像只带刺的暴躁豪猪(porcupine)(Park对他的爱称)，但他对social justice的追求一直没有断过。Charlie Adhara写法我最喜欢的一点是模糊了人类和狼人之间的界限，有时人比狼更像野兽，狼群内拥有最大能力的甚至不一定是alpha，结合后面的几部书我甚至怀疑这她是特意这样写的。第一部里每个人都怀疑的恶狼并不是最后的凶手，凶手的真相仿佛就是如Cooper所说的一个赤裸裸的irony。Cooper既希望给人也希望给狼人带去司法正义，他追求的平等主义在一部部书里不断幻灭，但他一直没有放弃希望。但我们从他的视角，就看着他一步步从一只带刺的豪猪变成一个人格魅力max的豪猪。
 
-**Bold** and _Italic_ and `Code` text
+## 剧情
+人类Cooper是FBI探员，他在一次执行任务的过程中被对手开膛破肚，昏迷后被迫切除部分肠子。在恢复后，他被告知嫌疑人是狼人，同时，为了保守秘密，他被调遣到BSI，一个专门负责狼人案件的FBI机构。他的老牌搭档是人类Jefferson，两人通力合作，一起破了许多案子。
 
-[Link](url) and ![Image](src)
-```
+然而BSI有许多制度性缺陷，尽管BSI与狼人联盟The Trust有合作，但BSI毕竟是由人类构成，对狼人不甚了解。因此，在一些案件中，BSI使用了过多的暴力，造成了狼人社区不必要的损伤。为了促进人类和狼人的进一步合作，BSI和狼人联盟决定进行一个新项目：将人类和狼人一一配对组成partners。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+一天，Cooper在上班的拥挤地铁上遇到了一个高大威猛的壮汉，他抑制不住内心的冲动忍不住去嗅了一下他身上的气味，正当Cooper色眯眯打量对方时，直接被对方用眼神抓包了。Cooper觉得很尴尬，但事情还没完，他出地铁时不小心把咖啡洒了一手，但他另一只手也拿了东西，那个陌生壮汉笑着帮库博擦掉了咖啡，然后就走了。
 
-### Jekyll Themes
+到达警局后，Cooper被告知了BSI和狼人联盟的新合作，他将成为第一个和狼人搭档的人类。这时，那个地铁壮汉出现了，原来他就是分配给Cooper的狼人，姓Park，名未知。库博又尴尬又对狼人怀有戒心，毕竟他的肠子就是被狼人给割断的，他不敢信任一个狼人，同时，Cooper只是把这场合作看做一场人类和狼人社区的政治表演，然而尽管Park感受到了Cooper的敌意，Park还是保持了最Professional的态度，尽量配合Cooper。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/WolfAtDoor.git.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+两人被派到了佛罗里达一个小镇调查一起失踪命案。Cooper和Park从小镇警官Micharl和Harrison得到了许多杂乱的信息。平静的小镇中，不断有人失踪并死去，有的是人类，有的是狼人，他们之间找不到任何联系，但他们只有一个共同点：失踪者或死亡者都是身强力壮的男子。目前一人失踪，两人死亡，死亡的一个是强壮的人类，一个身份未知无人认领，失踪的是一个强壮的前摔跤少年。Park想去死者的案发现场，但Cooper并不信任Park，他想要加大搜索失踪人员的力度，Park默默同意了Cooper，但一天的搜索一无所获。
 
-### Support or Contact
+Harrison是一个年过五旬的警官，他从费城来到这个小镇只有一年。Cooper了解到他的女儿被杀害，Harrison作为警官，却无法为女儿讨回正义。落魄的他来到了这个平静的小镇，希望平静地度过余生。但这次凶杀案让Harrison希望落空。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+次日，Cooper和Park去案发现场。一路上，Cooper发现Park对他的身世三缄其口，并且Cooper对Park的不信任惹恼了对方，Park拒绝告诉Cooper自己的名。在森林里走路时，Cooper一开始走在Park后面，忍不住盯着他的屁股幻想，但当Cooper走在Park前面时，他为一只狼走在他的背后一阵发虚。案发现场，Park发现了一只死去的熊和奇怪的黑色物质。两人还是无法联系起这些线索。
+
+晚上，Cooper一人来到酒吧吃晚饭，碰巧遇到警官Michael，Michael被服务员Jenny拒绝后楠楠走了，但Park来到了酒吧，原来他和Jenny是老相识，两人玩闹打成一片。Cooper感到一阵不适就回到了旅店里。
+
+第二天，Cooper接到消息，Jenny失踪了，他不寒而栗。在车上，他为了委婉地告诉Park这件事，询问Park和Jenny是不是恋人，但Park说Jenny不是他喜欢的类型，同时纠正Cooper说Jenny是人类。Cooper脱口而出你是不是因为Jenny不是狼人才不喜欢她，Park说他只喜欢男人才不喜欢Jenny。Cooper尴尬到爆炸，只能说我也是txl。两人就这样跟对方出柜了。之后，Cooper告诉Park Jenny失踪了，Park十分震惊。
+
+Cooper和Park拜访受害人家庭想要找出线索，一路上Cooper知道了当地有一只独狼(Lone Wolf)，性情暴躁，不喜欢人侵犯他的领地。出于对狼人的敌意，Cooper怀疑那只独狼就是凶手。在拜访失踪者的母亲时，Cooper又发现失踪者失踪前和一个人在电话里争吵，之后就去见了那个人。一番调查后，Cooper发现那个人是个狼人少年。少年说，失踪者要狼人少年和他一起去那只独狼的领地，少年狼人拒绝，之后，失踪者就消失了。Cooper几乎确定犯人是狼人，要么是那个少年，要么是那只独狼。
+
+Cooper一直怀疑Park身为狼人对自己有所隐瞒，不肯全力追捕很可能是狼人的凶手。Park在Cooper多次指责自己后，斥责Cooper没有把自己当做探案的搭档。Cooper无法反驳，但他仍不想完全信任Park。这时，警官Michael已经失联好几天了。Cooper怀疑警官Michael是凶手，他因为Jenny拒绝了他而下毒手，并且和其他案件也有联系。
+
+两人和警官Harrison和巡林员来到独狼家中调查，发现了失踪人的单车。Cooper觉得他们终于找到了罪犯，这时，Cooper注意到了一个深坑里貌似有警官Michael的防过敏手链，Cooper觉得Michael可能也参与了犯罪，于是，他找了一条绳子，一头牢牢绑在树上，一头绑在腰上，然后下洞找线索。然而，有人把Cooper的绳子解开了，Cooper摔下了洞穴受伤，人还被卡住了。
+
+慌乱之中，Cooper意识到凶手就在身边，他感到了生命受到威胁。他大喊Park的名字，希望狼人敏锐的听力能听到呼救。由于不知道Park的名，Cooper乱叫了许多名字。Park寻声而来，要回车子拿绳子来救Cooper，Cooper精神几乎崩溃求Park不要离开自己，Park安慰Cooper让他默数10下，他一定会在10下内回到Cooper身边。最终，Park把Cooper救了出来，Park终于感受到了Cooper对他的信任，在深处危险时Cooper第一想到的就是Park。Park告诉Cooper自己的名是Oliver，Cooper躺在地上突然紧紧握住Oliver的手，把手放到自己嘴边，轻轻地亲了起来，同时眼睛紧紧盯着Oliver。正当Oliver要说些什么时，其他警官赶到了。
+
+
+Park让警官把Cooper送到医院。Cooper治疗完回到旅馆后睡着后，Park来到他的房间。Park轻轻撩起Cooper后面的头发，问””May I?” Cooper十分震惊，但Park只是嗅了一下，说Cooper身上有死人的气息，他怀疑Cooper掉下去的洞穴有死人，他决定让警官去调查那个洞穴。Cooper告诉Park有人想暗杀自己，Park询问既然Cooper知道凶手就在洞穴旁边，Cooper怎么知道Park不是要暗杀他的那个凶手。Cooper承认了自己不善表达对Oliver的信任。
+
+Cooper一天没洗澡想冲洗一下，但Park坚持守在Cooper卧室里以防杀手闯入。Cooper洗澡时想到Oliver就有反应了，但他担心狼人能嗅到自己手冲的味道就不敢行动，开了冷水让自己身体降温。从浴室裹着一条围巾出来后，Cooper感受到了Oliver饿狼般的眼神，只要Cooper一声令下，Oliver就会扑到他身上。但Cooper克制住了自己的欲望，让Oliver带自己去吃晚餐。
+
+作为曾经的本地人，Oliver带着Cooper来到了一家滨海餐厅。两人吃着晚餐喝着酒开始谈话。Cooper知道了Oliver的职业，他在成为一名探员之前，拿到了比较文学的博士学位，是多伦多的大学文学教授。惊讶之余，Cooper也发现Oliver对他的过往和家庭不愿多谈。两人回到了酒店，Park在Cooper进房之前先进去检查了房间，防止有凶手埋伏。Cooper暗示性地问你不检查床吗。Oliver一把子把Cooper按到了墙上，两人开始激烈的…(无插入式)
+
+第二天酒醉清醒后，Cooper心情混乱。他突然接到电话，原来老牌人类搭档Jefferson要坐飞机来看望他了。Cooper见到Jefferson后，向他汇报了最新的调查情况。Jefferson提醒Cooper要留意狼人Park，但Cooper不知道怎么向Jefferson解释两人的关系。Jefferson见到Park以后，两人爆发了激烈的冲突，Jefferson极度不信任狼人。Cooper被夹在中间不知道怎么办。
+
+这时紧急消息传来，警官Michael被发现死在洞穴里。在搜查现场，Jefferson和Park陷入了更深的信任危机。Jefferson怀疑狼人少年是嫌疑人，要求把他监禁起来，但Park坚持认为人类可以疑罪从无，但为何狼人就需要自证清白。面对Jefferson的质疑，Park相信那个少年不会潜逃。Cooper选择了Park，决定暂时先不抓捕那个少年。Jefferson再次提醒Cooper加入BSI的原因。
+
+狼人少年消失了，Jefferson为自己的直觉感到正确，同时斥责Park为了掩护狼人犯罪放走了凶手。Park和暗恋狼人少年的巡林员都认为Jefferson从一开始就认定少年有罪，少年消失是因为所有人都因为他是狼人而给他安上罪名，他因为害怕而逃走了。双方爆发激烈冲突。
+
+回到旅馆，Park不愿意见Cooper。Cooper感到十分失落，他准备好了道歉的话来到Park的门前，Park开了门，态度很冷漠。Cooper准备好的话都说不出口，他只是在Park面前低下了头，向狼人暴露出了自己最脆弱的脖子部分。Park放下了戒备，Cooper进入了他的房间。两人讨论了一会案子和Jefferson后，Park问Cooper这是他来他房间真正的任务吗，Cooper脸红了，Oliver一看看穿了他真正想要的东西，两人第一次进行了插入式运动。期间，Oliver叫出了之后每部书必出现的给Cooper爱称“豪猪”(porcupine)。Oliver对Cooper说一定会保护好他。
+
+第二天起来后，Cooper醒来发现Park离开了。他接到了几个最新的消息后有不祥的预感，怀疑Park独自去了凶手住所。Cooper克服恐惧说服了另一个狼人酒吧老板一起去救Park。他们来到了独狼的住所，酒吧老板狼人凭借她的嗅觉找到了Park移动的方向，他们来到了一个矿洞前，Cooper决定独自进入，让酒吧老板去搬救兵，
+
+Cooper在洞里发现了赤身裸体的Park, 狼人少年，失踪的摔跤少年，他们都被关在笼中。洞里有一个巨大的竞技场，顶上连着直播录制器材。警官Harrison的冷笑从背后传来。原来，Harrison知道自己的女儿是被狼人杀害，但凶手却逍遥法外，他对司法系统失去了希望，决定自己伸张正义。他和另一个强壮的人类合作，用药把各种狼人迷晕，然后抓进山洞。这些狼人被强迫相互厮杀直到一方死亡，Harrison把这些视频录下来高价买到黑市。不过狼人并没那么好找，所以有时候他们也会抓一些强壮的人类来参加厮杀游戏。然而，Harrison的合作者不够配合，Harrison就把他杀死了，而那匹独狼早就因为厮杀失败死亡，一开始那具无人认领的尸体就是那个可怜的独居狼人老人。
+
+Harrison用枪指着Cooper要杀死他，但Cooper感到无比恶心和震惊。但这时Jefferson突然出现了，Jefferson劝导Cooper加入他们，原来，Jefferson也参与了Harrison的计划，是背后的凶手之一。他对狼人的恨让他做出了疯狂地行为。Cooper将计就计，表示愿意合作，但Harrison还是不信任他。Cooper为了取得信任提出可以让Park和狼人少年相互厮杀。Park露出了震惊的眼神并开始咆哮，但Cooper希望他能知道他的心意。
+
+趁Harrison和Jefferson放松警惕时，Cooper开枪射倒了一人，正当Harrison要杀死Cooper时，酒吧老板及时赶到变身狼人扑倒Harrison，所有人得救了。
+
+案件结束后，Cooper才知道原来原来佛罗里达的案子只是一个幌子。他的BSI上司和狼人联盟早就知道了有狼人绑架案，但他们知道Cooper被狼人割掉了肠子，怀疑Cooper是凶手。于是他们排出了最优秀的狼人探员Park和Cooper合作并且找出Cooper是否为真凶。Cooper感到无比自责，他和Jefferson搭档多年，但却一直没有发现Jefferson的阴暗面，导致了接近20个狼人因他而死，并且狼人厮杀的视频流传到了暗网上。
+
+这里有一段很复杂的内心活动。Jefferson是一个彻头彻尾的坏人吗？他是Cooper的导师，也是Cooper的朋友，他愿意为了保护Cooper付出一切，Cooper没有朋友，Jefferson在工作外一直把Cooper当做真心的朋友，是Cooper为数不多能敞开心扉的人。他作为直男，担心Cooper找不到男朋友拉着Cooper去Gay Bar，把他觉得好看但Cooper实际上不喜欢的男生推向Cooper，希望他们能搭讪。Jefferson一直用他的方式保护着Cooper。但就是这样的Jefferson，因为对狼人社区的扭曲理解，做出了疯狂的举动。Cooper不想再见Jefferson，但他也深刻意识到了BSI存在的系统性对狼人社区的误解，尽管对BSI代表的正义出现了动摇，Cooper还是希望自己能改变现状。
+
+在结尾，Cooper回到了华盛顿特区，他再次见到了Oliver，在案件后，两人都能感受到对方的关心和信任，于是决定继续见面。BSI和狼人联盟在这次恶性事件后决定更加加强合作，于是Cooper和Oliver继续保持工作上的搭档关系。
+
+Oliver成了Cooper床上的常客，但Cooper开始审视这段情感，他和Oliver究竟能不能产生爱情？
+
+Cooper父亲一个电话把Cooper拉回了家乡马里兰，同行的还有Oliver。从小就和父亲产生隔阂，Cooper该怎么告诉父亲自己两个最大的秘密？一个是自己的工作，一个是自己的性取向。然而，过世母亲的情人在自家宅院里被掘出，而怨恨母亲外遇的父亲成为了头号嫌疑人……在马里兰的滨海小镇，Oliver和Cooper，Cooper和家人这两条情感线将齐头并进。
